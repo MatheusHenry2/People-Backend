@@ -1,7 +1,5 @@
 package com.example.people.models;
-
 import jakarta.persistence.*;
-
 import java.io.Serializable;
 import java.util.UUID;
 
